@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+!README.md
+
+!flake.nix
+!flake.lock
+
+!.python-version
+!pyproject.toml
+!uv.lock
+!pyproject-overrides.nix
+
+!src/
+!src/*.py
